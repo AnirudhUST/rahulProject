@@ -1,0 +1,191 @@
+{
+  "company": "Aspire",
+  "ceoDetails": {
+    "name": "Ben",
+    "id": 1
+  },
+  "accountDetails": [
+    {
+      "accountName": "Automation",
+      "accountManager": "Ram",
+      "streams": [
+        "Management",
+        "Engineering",
+        "Delivery"
+      ],
+      "employees": [
+        { 
+          "name": "Ram",
+          "id": 25,
+          "managerId": 1,
+          "stream": "Management",
+          "designation": "Account Manager",
+          "yearsOfExperience": 19
+        },
+        {
+          "name": "Deepa",
+          "id": 29,
+          "managerId": 25,
+          "stream": "Management",
+          "designation": "Program Manager",
+          "yearsOfExperience": 15
+        },
+        {
+          "name": "Arjun",
+          "id": 31,
+          "managerId": 25,
+          "stream": "Management",
+          "designation": "Program Manager",
+          "yearsOfExperience": 16
+        },
+        {
+          "name": "Deepa",
+          "id": 51,
+          "managerId": 31,
+          "stream": "Engineering",
+          "designation": "Developer",
+          "yearsOfExperience": 9
+        },
+        {
+          "name": "Shyam",
+          "id": 55,
+          "managerId": 31,
+          "stream": "Engineering",
+          "designation": "Developer",
+          "yearsOfExperience": 10
+        },
+        {
+          "name": "Shyama",
+          "id": 56,
+          "managerId": 31,
+          "stream": "Delivery",
+          "designation": "QA",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "Swapna",
+          "id": 59,
+          "managerId": 29,
+          "stream": "Delivery",
+          "designation": "QA",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "Ashish",
+          "id": 71,
+          "managerId": 29,
+          "stream": "Engineering",
+          "designation": "Developer",
+          "yearsOfExperience": 7
+        },
+        {
+          "name": "Anagha",
+          "id": 72,
+          "managerId": 29,
+          "stream": "Engineering",
+          "designation": "QA",
+          "yearsOfExperience": 6
+        },
+        {
+          "name": "Bina",
+          "id": 100,
+          "managerId": 29,
+          "stream": "Delivery",
+          "designation": "QA",
+          "yearsOfExperience": 10
+        }
+      ]
+    },
+    {
+      "accountName": "Innovation",
+      "accountManager": "Padma",
+      "streams": [
+        "Management",
+        "Engineering",
+        "Service"
+      ],
+      "employees": [
+        {
+          "name": "Padma",
+          "id": 5,
+          "managerId": 1,
+          "stream": "Management",
+          "designation": "Account Manager",
+          "yearsOfExperience": 20
+        },
+        {
+          "name": "Vivek",
+          "id": 20,
+          "managerId": 5,
+          "stream": "Management",
+          "designation": "Program Manager",
+          "yearsOfExperience": 16
+        },
+        {
+          "name": "Lakshmi",
+          "id": 21,
+          "managerId": 5,
+          "stream": "Management",
+          "designation": "Program Manager",
+          "yearsOfExperience": 15
+        },
+        {
+          "name": "Arjun",
+          "id": 120,
+          "managerId": 21,
+          "stream": "Engineering",
+          "designation": "Developer",
+          "yearsOfExperience": 9
+        },
+        {
+          "name": "Shyam",
+          "id": 121,
+          "managerId": 21,
+          "stream": "Engineering",
+          "designation": "QA",
+          "yearsOfExperience": 10
+        },
+        {
+          "name": "Shyam",
+          "id": 122,
+          "managerId": 20,
+          "stream": "Service",
+          "designation": "QA",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "Sneha",
+          "id": 123,
+          "managerId": 20,
+          "stream": "Service",
+          "designation": "Developer",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "Rema",
+          "id": 124,
+          "managerId": 21,
+          "stream": "Engineering",
+          "designation": "Developer",
+          "yearsOfExperience": 8
+        },
+        {
+          "name": "Anagha",
+          "id": 125,
+          "managerId": 21,
+          "stream": "Engineering",
+          "designation": "QA",
+          "yearsOfExperience": 6
+        },
+        {
+          "name": "Bina",
+          "id": 126,
+          "managerId": 20,
+          "stream": "Service",
+          "designation": "Developer",
+          "yearsOfExperience": 10
+        }
+      ]
+    }
+  ]
+}
